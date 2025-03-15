@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.fisch37.peacefulsnow.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "HostileEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
